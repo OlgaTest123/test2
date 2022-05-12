@@ -19,13 +19,13 @@
   },
   "servers" : [ {
     "url" : "https://virtserver.swaggerhub.com/test8221/github2/1.0.0",
-    "description" : "SwaggerHub API Auto Mocking"
+    "description" : "SwaggerHub API Auto Mocking XYZ1Olga2"
   }, {
     "url" : "https://petstore.swagger.io/v2"
   } ],
   "tags" : [ {
     "name" : "pet",
-    "description" : "Everything about your Pets",
+    "description" : "Everything about your PetsABCChangeSthSecondChange",
     "externalDocs" : {
       "description" : "Find out more",
       "url" : "http://swagger.io"
